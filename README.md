@@ -11,4 +11,4 @@
 
 ## Доступ
 Отсканируйте QR-код или перейдите по ссылке: [Avtor Booking Demo](https://vf12776-ux.github.io/Avtor-App-Simple).
-![IMAGE 2025-09-29 14:53:00](https://github.com/user-attachments/assets/aa4702c3-d4e4-419a-95bb-2e341e887906)
+![IMAGE 2025-09-29 14:57:47](https://github.com/user-attachments/assets/0c792fba-d4f4-4258-8ece-5530a2e0202c)
