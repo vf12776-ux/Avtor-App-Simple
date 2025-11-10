@@ -1,4 +1,5 @@
-<img width="1080" height="1080" alt="qr-code (16)" src="https://github.com/user-attachments/assets/5d6bea23-5bae-4826-98d6-2ecf62af7d31" />
+<img width="2205" height="2205" alt="qr-code (16)" src="https://github.com/user-attachments/assets/77b0060f-1635-4b2c-b2fa-2d85560333de" />
+
 # Avtor Booking Demo
 Демо-версия приложения для бронирования отелей и хостелов сети "Автор".
 
